@@ -54,7 +54,7 @@ a:hover {
     }
 
     footer {
-        margin-top: 5%;
+        margin: 5% 0 0 0;
         text-align: center;
     }
 }
